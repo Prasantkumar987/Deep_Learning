@@ -1,1 +1,5 @@
-# Cat dog classifier
+
+
+In Convolutional Neural Network, we use Image dataset which is generally very large taken to improve Classification.
+The Dataset, I am using for this project is also large of about 300 MBs. You can refer to the same data by clicking [Here](https://www.kaggle.com/prasantdixit/cat-dog-cnn/data) to build your convolutional model.
+=======
