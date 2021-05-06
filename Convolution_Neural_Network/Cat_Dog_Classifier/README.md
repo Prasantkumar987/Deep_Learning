@@ -1,4 +1,4 @@
-# Cat dog classifier
+# Cat-Dog Classifier (using CNN)
 
 Here I built a classifier using Convolutional Neural Network to classify images of **Cat and Dog**.<br>
 I used the dataset for this kaggle and you can use it by clicking [Here](https://www.kaggle.com/prasantdixit/cat-dog-cnn/data).<br>
@@ -10,7 +10,7 @@ Here to make convolutional model, we use images as our data. Images datasets are
 
 ### Building CNN Model
 There are few steps which I have followed to build CNN model which are following:<br>
-1.Adding **Convolution layers<br>
+1.Adding **Convolution layers**<br>
 2.Adding Pooling(particularly **Max Pooling**)<br>
 3.**Flattening** the output from previous layers(converting 3-D array to 1-D array)<br>
 4.for **Full Connection** adding Dense layers<br>
