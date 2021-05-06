@@ -27,6 +27,6 @@ Before fiting our trianing data into model, we have to compile our model from be
   I tried 30 epoches train this model and got accuracy on validation data of **0.8072** .It took me about 10 mins to train it as dataset is also very large. Generally it takes time and it also depends on your computional power.<br>
   
 ### Tring model on some other images
-After getting accuracy of **0.8072**, I used it on some images which I took from [Upslash](unsplash.com) and test on them, it gave perfect results for me.<br>
+After getting accuracy of **0.8072**, I used it on some images which I took from [Upslash](unsplash.com) and tested them on model, it gave perfect results on them.<br>
 
 ### You should also try it out. 
