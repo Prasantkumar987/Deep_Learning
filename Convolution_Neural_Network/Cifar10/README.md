@@ -4,8 +4,7 @@ The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6
 <br>
 The dataset is divided into five training batches and one test batch, each with 10000 images. The test batch contains exactly 1000 randomly-selected images from each class. The training batches contain the remaining images in random order, but some training batches may contain more images from one class than another. Between them, the training batches contain exactly 5000 images from each class.<br>
 
-Here I built a classifier using Convolutional Neural Network to classify images of **10 classes** of images got accuracy on training set **0.7653** and validation accuracy **0.7252![accuracy](https://user-images.githubusercontent.com/54981696/118615402-557fe580-b7de-11eb-948a-8a9a0fa8fc03.png)
-**.<br>
+Here I built a classifier using Convolutional Neural Network to classify images of **10 classes** of images got accuracy on training set **0.7653** and validation accuracy **0.7252**.<br>
 You can take help of Cifar10.ipynb file where I coded it in this folder.<br>
 
 ### Parameters:
