@@ -1,7 +1,8 @@
 # NewYork Stock Exchange Price Prediction
 
 ![Screenshot (286)](https://user-images.githubusercontent.com/54981696/119790161-53f6a180-bef1-11eb-8a7a-00bc9d698722.png)
-####You can see my accuracy, validation accuracy, loss, validation loss, epochs ['Here'](https://wandb.ai/prasantdixit/NewYork%20Stock%20Price%20Prediction-%20V2/reports/NewYork-Stock-Exchange-Price-Prediction-- Vmlldzo3MzA0ODE)
+####You can see my accuracy, validation accuracy, loss, validation loss, epochs 
+[HERE](https://wandb.ai/prasantdixit/NewYork%20Stock%20Price%20Prediction-%20V2/reports/NewYork-Stock-Exchange-Price-Prediction-- Vmlldzo3MzA0ODE)
 
 ## 1. Problem Statement
 Historical data of NewYork Stock Exchange for various companies are given, chose some of them and Predict their future Prices using given Prices. I chose 5 MNCs named Apple, ADM, Amazon, Google, IBM and tried to predict their future prices.
